@@ -1,4 +1,4 @@
-name: Step 1, Resolve duplicate issues
+travis jackson name: Step 1, Resolve duplicate issues
 
 # This step listens for the learner creating or editing an issue comment.
 # This workflow updates from step 1 to step 2.

@@ -1,5 +1,5 @@
-name: Step 3, Fix a broken sidebar
-
+name: Step 3, Fix a br
+travis
 # This step listens for the learner opening, editing, or reopening a pull request.
 # This workflow updates from step 3 to step X.
 
